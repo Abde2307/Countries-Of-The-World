@@ -1,1 +1,2 @@
 # Countries-Of-The-World
+This webiste aims to create a visually engaging and interacitve way to explore the details of the countries in the world. It uses a REST API called Rest-Countires API as it's stable, up-to-date and free to use. It creates a grid in which it forms card where in each one of them there are the countries' flags, names, capital and population number. The countries have been ordered alphabetically and categorised into their corresponding continents, including the cournties that are not recognised such as Antartica.
